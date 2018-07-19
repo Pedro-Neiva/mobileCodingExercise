@@ -38,7 +38,7 @@ To reduce coupling, this solution keeps external libraries to a minimum using on
 This app uses [CocoaPods](http://cocoapods.org/) as dependency manager. After downloading all project files you should perform the following command on the same directory.
 
 	pod install
-
+After that just click on the MobileCodingExercise.xcworkspace file
 
 ## Author
 
