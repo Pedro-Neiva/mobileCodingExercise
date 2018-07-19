@@ -1,0 +1,13 @@
+{
+    "topLabel":"Boston Red Sox",
+    "middleLabel":"Fenway Park - Boston, MA",
+    "bottomLabel":"Sun, Jul 15 - Sun, Aug 05",
+    "eventCount":11,
+    "image":"https://a.vsstatic.com/mobile/app/mlb/boston-red-sox.jpg",
+    "targetId":107,
+    "targetType":"PERFORMER",
+    "entityId":107,
+    "entityType":"PERFORMER",
+    "startDate":1531677900000,
+    "rank":320
+}

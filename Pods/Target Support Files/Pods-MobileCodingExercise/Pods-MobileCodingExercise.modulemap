@@ -1,0 +1,6 @@
+framework module Pods_MobileCodingExercise {
+  umbrella header "Pods-MobileCodingExercise-umbrella.h"
+
+  export *
+  module * { export * }
+}
